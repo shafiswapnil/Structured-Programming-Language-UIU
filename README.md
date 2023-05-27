@@ -1,3 +1,3 @@
 # Structured Programming Language Course of UIU
 
-This reporsitory will contain practice and profile files from SPL Course of my university.
+This repository will contain practice and project files from SPL Course of my university
