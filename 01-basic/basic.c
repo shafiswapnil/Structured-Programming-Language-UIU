@@ -5,6 +5,8 @@
 
 // library files = stdio.h, math.h
 
+// phases of c program - edit -> preprocess -> compile -> link -> load -> execute
+
 #include <stdio.h>
 
 int main()
