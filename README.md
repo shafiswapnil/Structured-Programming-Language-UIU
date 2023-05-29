@@ -6,7 +6,7 @@ This repository will contain practice and project files from SPL Course of my un
 
 | Title | Link |
 | ----------- | ----------- |
-| Intro |  |
+| Intro | [SPL-Problemset/01-Intro.pdf](SPL-Problemset/01-Intro.pdf) |
 | Operators |  |
 | Conditions |  |
 | Loops |  |
