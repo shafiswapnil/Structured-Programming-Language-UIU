@@ -1,8 +1,10 @@
 # Structured Programming Language Course of UIU
 
-This repository will contain practice and project files from SPL Course of my university
+This repository will contain practice and project files from SPL Course of my university.
 
 ## SPL Problem Sets
+
+Problem sets provided for the course.
 
 | Title                   | Link |
 | ----------------------- | ----------------------- |
