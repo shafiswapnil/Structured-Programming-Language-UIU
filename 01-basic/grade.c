@@ -25,6 +25,26 @@ int main()
   {
     printf("Grade: B-\n");
   }
+  else if (score >= 70 && score <= 73)
+  {
+    printf("Grade: C+\n");
+  }
+  else if (score >= 66 && score <= 69)
+  {
+    printf("Grade: C\n");
+  }
+  else if (score >= 62 && score <= 65)
+  {
+    printf("Grade: C-\n");
+  }
+  else if (score >= 58 && score <= 61)
+  {
+    printf("Grade: D+\n");
+  }
+  else if (score >= 55 && score <= 57)
+  {
+    printf("Grade: D\n");
+  }
   else
   {
     printf("Grade: F\n");
