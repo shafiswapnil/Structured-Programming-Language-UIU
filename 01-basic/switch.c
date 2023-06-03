@@ -26,4 +26,6 @@ int main()
   default:
     printf("Invalid number\n");
   }
+
+  return 0;
 }
